@@ -1,6 +1,7 @@
 # **Amazon-lex**
 
 ## **Building chatbot with Amazon Lex**
+![ExcelLexBot-2](https://github.com/meru88tam/Amazon-lex/assets/145996763/1c2381b8-cd05-4909-86d8-8a95430cbff0)
 
 # Step-by-step guide on how to build a pizza chatbot on Amazon Lex:
 

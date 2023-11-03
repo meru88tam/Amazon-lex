@@ -52,7 +52,7 @@ Define how your chatbot should fulfill user requests. You can use AWS Lambda fun
 Once you've configured your intents, slot types, and fulfillment, click on the "Build" button to build your bot. This process compiles your chatbot and makes it ready for testing.
 
 # Step 11. **Test Your Bot**
-
+![Screenshot (96)](https://github.com/meru88tam/Amazon-lex/assets/145996763/c4326669-77c1-4fe0-ad7a-ebe1af5d0840)
 Use the chat interface provided by Amazon Lex to test your chatbot. Enter sample utterances and verify if the bot understands and responds correctly. Make any necessary adjustments to improve its performance.
 
 # Step 12. **Publish Your Bot**

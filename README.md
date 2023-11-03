@@ -43,6 +43,7 @@ Slot types define the data that your chatbot needs to collect from the user. For
 Slots are specific instances of slot types. For each intent, define the slots required to fulfill the user's request. For example, the "OrderPizza" intent might have slots for "PizzaSize," "PizzaToppings," and "DeliveryAddress."
 
 # Step 9. **Fulfillment**
+![Screenshot (96)](https://github.com/meru88tam/Amazon-lex/assets/145996763/fa11d676-0d90-4ce4-9414-ffc23f5aa202)
 
 Define how your chatbot should fulfill user requests. You can use AWS Lambda functions to process the user's inputs, validate slot values, interact with databases, and perform any necessary business logic.
 

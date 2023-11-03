@@ -14,6 +14,7 @@ If you don't already have an AWS account, sign up for one at https://aws.amazon.
 In the AWS Management Console, navigate to the Amazon Lex service.
 
 # Step 3. **Create a New Bot**
+![Screenshot (90)](https://github.com/meru88tam/Amazon-lex/assets/145996763/10a715ed-5c87-47b5-a8d0-e556f79cc1fd)
 
 Click on "Create" to start creating a new bot.
 

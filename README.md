@@ -31,6 +31,8 @@ Provide a name and description for your bot. Select a language and choose an out
 Intents define the actions or requests a user can make. For a pizza chatbot, you can create intents like "OrderPizza," "CheckOrderStatus," "CancelOrder," etc. Define sample utterances for each intent to train your chatbot to understand user inputs.
 
 # Step 7. **Configure Slot Types**
+![image](https://github.com/meru88tam/Amazon-lex/assets/145996763/730070b4-e8d7-4097-a4f7-01b732e5a9b5)
+
 
 Slot types define the data that your chatbot needs to collect from the user. For example, you can create slot types like "PizzaSize," "PizzaToppings," "DeliveryAddress," etc. Define possible values and synonyms for each slot type.
 
